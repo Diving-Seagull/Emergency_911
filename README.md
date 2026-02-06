@@ -80,7 +80,7 @@
       </td>
       <td align="center" width="33%">
         <img src="https://avatars.githubusercontent.com/u/77396909?v=4" width="100" height="100"><br>
-        <a href="https://github.com/gykim22">김기윤</a><br>
+        <a href="https://github.com/GiyunKim00">김기윤</a><br>
         FE
       </td>
     </tr>
